@@ -5,11 +5,9 @@
 - **Network Science:** NetworkX, StellarGraph, Cytoscape, Apache Gremlin, DGL (Deep Graph Library)
 
 ## Scholastic Accolades
-- **Vector Scholarship in Artificial Intelligence (2022-23)** <br />The Vector Insitute, Toronto
-- **Academic Excellence Award in Computer Science (2016-17)** <br />University of Delhi, Delhi <br />
+- **Vector Scholarship in Artificial Intelligence (2022-23)** <br />_The Vector Insitute, Toronto_
+- **Academic Excellence Award in Computer Science (2016-17)** <br />_University of Delhi, Delhi_ <br />
   First rank in academic performance out of 21 colleges under University of Delhi.
-- **Academic Excellence Award in Computer Science (2017-18) |** <br />Hans Raj College, University of Delhi, Delhi <br />
-  Second out of 65 in academic performance in Hans Raj College B.Sc (Hons.) Computer Science program.
 
 
 ## Education
@@ -18,11 +16,11 @@
 - **BSc (Hons.), Computer Science** | University of Delhi <br /> (_July 2016_ - _June 2019_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Research & Development Intern, Data Science @ SOTI Inc. (_May 2023 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Artificial Intelligence Engineer @ Scimox Products & Services Pvt. Ltd. (_June 2021 - June 2022_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
