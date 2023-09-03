@@ -23,7 +23,7 @@ _Mississauga, Ontario_
 
 **AI/ML Engineer @ Scimox Pvt. Ltd. (_June 2021 - June 2022_)** <br />
 _Gurugram, NCT-Delhi_ <br />
-**Contribution to Products: _BuddyKu News_** [[Link]](https://buddyku.com/), **_Vision+ Entertainment_** [[Link]](https://www.visionplus.id/)
+**Contribution: _BuddyKu News_** [[Link]](https://buddyku.com/), **_Vision+ Entertainment_** [[Link]](https://www.visionplus.id/)
 - Developed implicit feedback collaborative filtering models that improved user engagement by 18% in Q1 2022.
 - Leveraged Google Analytics attributes to tackle cold-start issues and develop the fall-back recommendation pipeline.
 - Designed a 7M+ users network in AWS Neptune and utilized topological attributes to generate offline, near-line recommendations under 900ms.
