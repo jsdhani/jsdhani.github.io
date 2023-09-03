@@ -21,9 +21,9 @@ _Mississauga, Ontario_
 - Enhancing the internal CI/CD BDD (Behavior Driven Development) test case selection algorithm using semantic features from Gherkin Scenarios and corresponding C# syntax structure for priority-driven test recommendations.
 
 
-**AI/ML Engineer @ Scimox Pvt. Ltd. (_June 2021 - June 2022_)**
-_Gurugram, NCT-Delhi_
-**Contribution to Products: _BuddyKu News & Information_ [AppLink](https://buddyku.com/), _Vision+ Entertainment_**
+**AI/ML Engineer @ Scimox Pvt. Ltd. (_June 2021 - June 2022_)** <br />
+_Gurugram, NCT-Delhi_ <br />
+**Contribution to Products: _BuddyKu News & Information_ [[Link]](https://buddyku.com/), _Vision+ Entertainment_[[Link]](https://www.visionplus.id/)**
 - Developed implicit feedback collaborative filtering models that improved user engagement by 18% in Q1 2022.
 - Leveraged Google Analytics attributes to tackle cold-start issues and develop the fall-back recommendation pipeline.
 - Designed a 7M+ users network in AWS Neptune and utilized topological attributes to generate offline, near-line recommendations under 900ms.
