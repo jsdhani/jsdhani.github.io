@@ -5,7 +5,8 @@
 - **Network Science:** NetworkX, StellarGraph, Cytoscape, Apache Gremlin, DGL (Deep Graph Library)
 
 ## Accolades
-- **Vector Scholarship in Artificial Intelligence (2022-23)** <br />_The Vector Insitute, Toronto_
+- **Vector Scholarship in Artificial Intelligence (2022-23)** <br />_The Vector Insitute, Toronto_ <br />
+  Merit-based entrance award for students pursuing graduate degree in AI at an Ontario university.
 - **Academic Excellence Award in Computer Science (2016-17)** <br />_University of Delhi, Delhi_ <br />
   First rank in academic performance out of 21 colleges under University of Delhi.
 
