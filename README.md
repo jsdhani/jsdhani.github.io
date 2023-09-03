@@ -1,21 +1,21 @@
 # Data Scientist
 
 ## Technical Toolbox
-- **Machine Learning |** Tensorflow, PyTorch, Spotlight, HuggingFace, Scikit-Learn
-- **Network Science |** NetworkX, StellarGraph, Cytoscape, Apache Gremlin, DGL (Deep Graph Library)
+- **Machine Learning:** Tensorflow, PyTorch, Spotlight, HuggingFace, Scikit-Learn
+- **Network Science:** NetworkX, StellarGraph, Cytoscape, Apache Gremlin, DGL (Deep Graph Library)
 
 ## Scholastic Accolades
-- **Vector Scholarship in Artificial Intelligence (2022-23) |** The Vector Insitute, Toronto
-- **Academic Excellence Award in Computer Science (2016-17) |** University of Delhi, Delhi <br />
+- **Vector Scholarship in Artificial Intelligence (2022-23)** <br />The Vector Insitute, Toronto
+- **Academic Excellence Award in Computer Science (2016-17)** <br />University of Delhi, Delhi <br />
   First rank in academic performance out of 21 colleges under University of Delhi.
-- **Academic Excellence Award in Computer Science (2017-18) |** Hans Raj College, University of Delhi, Delhi <br />
-  Second out of 65 in academic performance in Hans Raj College B.Sc (Hons.) Computer Science program
+- **Academic Excellence Award in Computer Science (2017-18) |** <br />Hans Raj College, University of Delhi, Delhi <br />
+  Second out of 65 in academic performance in Hans Raj College B.Sc (Hons.) Computer Science program.
 
 
 ## Education
-- MSc, Applied Computing <br /> Dept. of Computer Science, University of Toronto <br /> (_September 2022_ - _December 2023_)								       		
-- MSc, Computer Science <br /> Dept. of Computer Science, University of Delhi <br /> (_July 2019_ - _June 2021_)	 			        		
-- BSc (Hons.), Computer Science <br /> Hans Raj College, University of Delhi <br /> (_July 2016_ - _June 2019_)
+- **MSc, Applied Computing** | University of Toronto <br /> (_September 2022_ - _December 2023_)								       		
+- **MSc, Computer Science** | University of Delhi <br /> (_July 2019_ - _June 2021_)	 			        		
+- **BSc (Hons.), Computer Science** | University of Delhi <br /> (_July 2016_ - _June 2019_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
