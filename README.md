@@ -11,16 +11,18 @@
 
 
 ## Education
-- **MSc, Applied Computing** | University of Toronto <br /> (_September 2022_ - _December 2023_)								       		
-- **MSc, Computer Science** | University of Delhi <br /> (_July 2019_ - _June 2021_)	 			        		
-- **BSc (Hons.), Computer Science** | University of Delhi <br /> (_July 2016_ - _June 2019_)
+- **MSc, Applied Computing**, University of Toronto <br /> (_September 2022_ - _December 2023_)								       		
+- **MSc, Computer Science**, University of Delhi <br /> (_July 2019_ - _June 2021_)	 			        		
+- **BSc (Hons.), Computer Science**, University of Delhi <br /> (_July 2016_ - _June 2019_)
 
 ## Work Experience
-**Research & Development Intern, Data Science @ SOTI Inc. (_May 2023 - Present_)**
+**Research Intern, Data Science @ SOTI Inc. (_May 2023 - Present_)**
+_Mississauga, Ontario_
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
 **Artificial Intelligence Engineer @ Scimox Products & Services Pvt. Ltd. (_June 2021 - June 2022_)**
+_Gurugram, NCT-Delhi_
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
