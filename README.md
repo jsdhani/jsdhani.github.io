@@ -1,10 +1,10 @@
 # Data Scientist
 
-## Technical Toolbox
+## Technical Skills
 - **Machine Learning:** Tensorflow, PyTorch, Spotlight, HuggingFace, Scikit-Learn
 - **Network Science:** NetworkX, StellarGraph, Cytoscape, Apache Gremlin, DGL (Deep Graph Library)
 
-## Scholastic Accolades
+## Accolades
 - **Vector Scholarship in Artificial Intelligence (2022-23)** <br />_The Vector Insitute, Toronto_
 - **Academic Excellence Award in Computer Science (2016-17)** <br />_University of Delhi, Delhi_ <br />
   First rank in academic performance out of 21 colleges under University of Delhi.
@@ -21,10 +21,12 @@ _Mississauga, Ontario_
 - Enhancing the internal CI/CD BDD (Behavior Driven Development) test case selection algorithm using semantic features from Gherkin Scenarios and corresponding C# syntax structure for priority-driven test recommendations.
 
 
-**Artificial Intelligence Engineer @ Scimox Products & Services Pvt. Ltd. (_June 2021 - June 2022_)**
+**AI/ML Engineer @ Scimox Pvt. Ltd. (_June 2021 - June 2022_)**
 _Gurugram, NCT-Delhi_
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Contribution to Products: _BuddyKu News & Information_ [AppLink](https://buddyku.com/), _Vision+ Entertainment_**
+- Developed implicit feedback collaborative filtering models that improved user engagement by 18% in Q1 2022.
+- Leveraged Google Analytics attributes to tackle cold-start issues and develop the fall-back recommendation pipeline.
+- Designed a 7M+ users network in AWS Neptune and utilized topological attributes to generate offline, near-line recommendations under 900ms.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
