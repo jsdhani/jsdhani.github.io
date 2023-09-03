@@ -18,8 +18,8 @@
 ## Work Experience
 **Research Intern, Data Science @ SOTI Inc. (_May 2023 - Present_)**
 _Mississauga, Ontario_
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Enhancing the internal CI/CD BDD (Behavior Driven Development) test case selection algorithm using semantic features from Gherkin Scenarios and corresponding C# syntax structure for priority-driven test recommendations.
+
 
 **Artificial Intelligence Engineer @ Scimox Products & Services Pvt. Ltd. (_June 2021 - June 2022_)**
 _Gurugram, NCT-Delhi_
