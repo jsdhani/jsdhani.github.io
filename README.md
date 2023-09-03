@@ -28,7 +28,8 @@ _Gurugram, NCT-Delhi_ <br />
 - Leveraged Google Analytics attributes to tackle cold-start issues and develop the fall-back recommendation pipeline.
 - Designed a 7M+ users network in AWS Neptune and utilized topological attributes to generate offline, near-line recommendations under 900ms.
 
-**Summer Research Intern, University of Delhi (_June 2017 - July 2017)_** <br />
+**Research Intern, Text Mining @ University of Delhi (_June 2017 - July 2017)_** <br />
+_University of Delhi, Delhi_
 - Utilized Stanford Twitter Sentiment dataset as an experimental benchmark to determine optimal text pre-processing, topic modeling and sentiment analysis methods.
 
 
