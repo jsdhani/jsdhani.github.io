@@ -10,19 +10,12 @@ Hello there, and thank you for visiting my personal webpage! This space is a ref
 - **BSc (Hons.), Computer Science**, University of Delhi <br /> (_July 2016_ - _June 2019_) <br />**CGPA: 9.37/10**
 
 ## Academic Awards
-- **Vector Scholarship in Artificial Intelligence (2022-23)** <a href="https://vectorinstitute.ai/programs/scholarship/#:~:text=A%20%2417%2C500%20entrance%20scholarship%20awarded,path%20that%20is%20demonstrably%20AI%2D">:link:</a><br />_The Vector Insitute, Toronto_ <br />
+- **Vector Scholarship in Artificial Intelligence (2022-23)** <a href="https://vectorinstitute.ai/programs/scholarship/#:~:text=A%20%2417%2C500%20entrance%20scholarship%20awarded,path%20that%20is%20demonstrably%20AI%2D">(source)</a><br />_The Vector Insitute, Toronto_ <br />
   Merit-based entrance scholarship worth $17500 CAD for pursuing graduate degree in AI at an Ontario university.
 - **Academic Excellence Award in Computer Science (2016-17)** <br />_University of Delhi, Delhi_ <br />
   First rank in academic performance in B.Sc (Hons.), Computer Science, out of 21 colleges under University of Delhi.
 
-## Technical Skills
-- **Machine Learning:** Tensorflow, PyTorch, Spotlight, HuggingFace, Scikit-Learn
-- **Network Science:** NetworkX, StellarGraph, Cytoscape, Apache Gremlin, DGL (Deep Graph Library)
-
-
-
-
-## Work Experience
+## Experience
 **Research Intern, Data Science @ SOTI Inc. (_May 2023 - Present_)**
 _Mississauga, Ontario_
 - Enhancing the internal CI/CD BDD (Behavior Driven Development) test case selection algorithm using semantic features from Gherkin Scenarios and corresponding C# syntax structure for priority-driven test recommendations.
@@ -37,7 +30,36 @@ _Gurugram, NCT-Delhi_ <br />
 
 **Research Intern, Text Mining @ DUCS (_June 2017 - July 2017)_** <br />
 _University of Delhi, Delhi_
-- Utilized Stanford Twitter Sentiment dataset as an experimental benchmark to determine optimal text pre-processing, topic modeling and sentiment analysis methods.
+- Surveyed topic modeling methods considering \textit{Stanford Twitter Sentiment} data as the experimental benchmark.
+- Utilized sentiment analysis and topic modeling methods to deliver a prototype for analyzing Twitter pages.
+
+## Projects
+### Similar Cases Recommendation Using Legal Knowledge Graphs
+[View Demo Paper] (https://arxiv.org/abs/2107.04771)
+
+A legal knowledge graph constructed from court cases, judgments,
+laws and other legal documents can enable a number of applications
+like question answering, document similarity, and search. While
+the use of knowledge graphs for distant supervision in NLP tasks
+is well researched, using knowledge graphs for downstream graph
+tasks like node similarity presents challenges in selecting node
+types and their features. In this demo, we describe our solution
+for predicting similar nodes in a case graph derived from our legal
+knowledge graph.
+
+#### Contributions
+- Derived the ontology for legal knowledge graph by a combination of manual process and topic modeling.
+- Developed link prediction \textit{RGCN} model using domain-specific features from 2200+ IPR documents.
+- Achieved 5\% improvement in AUC over pre-trained \textit{STANZA} and \textit{spaCy} entity recognition models.
+
+## Technical Skills
+- **Machine Learning:** Tensorflow, PyTorch, Spotlight, HuggingFace, Scikit-Learn
+- **Network Science:** NetworkX, StellarGraph, Cytoscape, Apache Gremlin, DGL (Deep Graph Library)
+
+
+
+
+
 
 
 ## Projects
