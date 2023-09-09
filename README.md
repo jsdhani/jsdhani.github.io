@@ -51,6 +51,7 @@ knowledge graph.
 - Derived the ontology for legal knowledge graph by a combination of manual process and topic modeling.
 - Developed link prediction RGCN model using domain-specific features from 2200+ IPR documents.
 - Achieved 5% improvement in AUC over pre-trained STANZA and spaCy entity recognition models.
+- Our research received recognition at the KGKDD-2021 conference held in Singapore and has recently been accepted into the proceedings at the <a href="https://sites.google.com/view/sail-2023/call-for-papers?authuser=0">3rd Symposium for AI and Law</a>, held at IIIT-Hyderabad.
 
 ## Technical Skills
 - **Machine Learning:** Tensorflow, PyTorch, Spotlight, HuggingFace, Scikit-Learn
