@@ -7,17 +7,17 @@ Hello there, and thank you for visiting my personal webpage! This space is a ref
 
 - **MSc, Computer Science**, University of Delhi <br /> (_July 2019_ - _June 2021_) <br /> **CGPA: 9.59/10** <br /><u>ACADEMIC SUPERVISOR:</u> <a href="http://people.du.ac.in/~vbhatnagar/"> Prof. Vasudha Bhatnagar </a> <br /> <u>COURSE PROJECT</u> (in collaboration with <a href="https://research.ibm.com/publications/similar-cases-recommendation-using-legal-knowledge-graphs">IBM Global Remote Mentorship </a> under joint supervision of Mr. <a href="https://research.ibm.com/people/balaji-ganesan">Balaji Ganesan</a>) <br /> <a href="https://arxiv.org/abs/2107.04771">Similar Cases Recommendation Using Legal Knowledge Graphs </a>
 
-- **BSc (Hons.), Computer Science**, University of Delhi <br /> (_July 2016_ - _June 2019_) <br />**CGPA: 9.37/10** 
+- **BSc (Hons.), Computer Science**, University of Delhi <br /> (_July 2016_ - _June 2019_) <br />**CGPA: 9.37/10**
+
+## Academic Awards
+- **Vector Scholarship in Artificial Intelligence (2022-23)** <br />_The Vector Insitute, Toronto_ <br />
+  Merit-based entrance scholarship worth $17500 CAD for pursuing graduate degree in AI at an Ontario university.
+- **Academic Excellence Award in Computer Science (2016-17)** <br />_University of Delhi, Delhi_ <br />
+  First rank in academic performance in B.Sc (Hons.), Computer Science, out of 21 colleges under University of Delhi.
 
 ## Technical Skills
 - **Machine Learning:** Tensorflow, PyTorch, Spotlight, HuggingFace, Scikit-Learn
 - **Network Science:** NetworkX, StellarGraph, Cytoscape, Apache Gremlin, DGL (Deep Graph Library)
-
-## Accolades
-- **Vector Scholarship in Artificial Intelligence (2022-23)** <br />_The Vector Insitute, Toronto_ <br />
-  Merit-based entrance scholarship worth $17500 CAD for pursuing graduate degree in AI at an Ontario university.
-- **Academic Excellence Award in Computer Science (2016-17)** <br />_University of Delhi, Delhi_ <br />
-  First rank in academic performance out of 21 colleges under University of Delhi.
 
 
 
