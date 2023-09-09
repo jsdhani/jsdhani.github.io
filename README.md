@@ -1,5 +1,7 @@
 # Data Scientist
 
+Hello there, and thank you for visiting my personal webpage! This space is a reflection of my commitment towards crafting a career in Artifical Intelligence with special focus on Natural Lanaguage Processing and Recommender Systems. It's not just a collection of my past projects and accolades; rather it's a timeline of my growth, my exploration, and my unwavering passion for technology. Whether you're a fellow student like me, a prospective employer, or simply someone intrigued by the endless possibilities of the digital world, you're in the right place. Take your time to peruse my work, and don't hesitate to reach out if you'd like to connect, collaborate, or simply share your thoughts. I firmly believe that every experience carries its own unique lessons. Some might involve the intracacies of turning machine learning models into production-ready giants (if you have experienced it, you know the stress that comes with it :)), while others, if not almost all of them may serve as valuable building blocks for enhancing life skills and personal development.
+
 ## Technical Skills
 - **Machine Learning:** Tensorflow, PyTorch, Spotlight, HuggingFace, Scikit-Learn
 - **Network Science:** NetworkX, StellarGraph, Cytoscape, Apache Gremlin, DGL (Deep Graph Library)
