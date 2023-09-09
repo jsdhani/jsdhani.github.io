@@ -10,7 +10,7 @@ Hello there, and thank you for visiting my personal webpage! This space is a ref
 - **BSc (Hons.), Computer Science**, University of Delhi <br /> (_July 2016_ - _June 2019_) <br />**CGPA: 9.37/10**
 
 ## Academic Awards
-- **Vector Scholarship in Artificial Intelligence (2022-23)** <br />_The Vector Insitute, Toronto_ <br />
+- **Vector Scholarship in Artificial Intelligence (2022-23)** <a href="https://vectorinstitute.ai/programs/scholarship/#:~:text=A%20%2417%2C500%20entrance%20scholarship%20awarded,path%20that%20is%20demonstrably%20AI%2D">:link:</a><br />_The Vector Insitute, Toronto_ <br />
   Merit-based entrance scholarship worth $17500 CAD for pursuing graduate degree in AI at an Ontario university.
 - **Academic Excellence Award in Computer Science (2016-17)** <br />_University of Delhi, Delhi_ <br />
   First rank in academic performance in B.Sc (Hons.), Computer Science, out of 21 colleges under University of Delhi.
