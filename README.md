@@ -35,7 +35,7 @@ _University of Delhi, Delhi_
 
 ## Projects
 ### Similar Cases Recommendation Using Legal Knowledge Graphs
-[View Demo Paper] (https://arxiv.org/abs/2107.04771)
+[View Workshop Demo Paper](https://arxiv.org/abs/2107.04771)
 
 A legal knowledge graph constructed from court cases, judgments,
 laws and other legal documents can enable a number of applications
@@ -49,8 +49,8 @@ knowledge graph.
 
 #### Contributions
 - Derived the ontology for legal knowledge graph by a combination of manual process and topic modeling.
-- Developed link prediction \textit{RGCN} model using domain-specific features from 2200+ IPR documents.
-- Achieved 5\% improvement in AUC over pre-trained \textit{STANZA} and \textit{spaCy} entity recognition models.
+- Developed link prediction RGCN model using domain-specific features from 2200+ IPR documents.
+- Achieved 5% improvement in AUC over pre-trained STANZA and spaCy entity recognition models.
 
 ## Technical Skills
 - **Machine Learning:** Tensorflow, PyTorch, Spotlight, HuggingFace, Scikit-Learn
