@@ -92,6 +92,11 @@ we extend beyond the conventional machine learning classification methods to
 incorporate the concept of active learning, a type of iterative supervised learning,
 used when the unlabelled data is in abundance.
 
+### Against All Odds: A Machine Learning Perspective to Cold Start Feed Recommendations
+[View Project]([https://github.com/jsdhani/FeedRecommender])
+
+Cold Start is one of the biggest challenges in the realm of Recommender Systems. Be it recommending suitabl items to a new user, or pushing newly uploaded contents to the audience, cold start requires careful utilization of limited attributes to curate the recommendations. The proposed approach uses a combination of unsupervised learning, supervised learning, and rule based approaches to create a feature set and train a multi-label classification model for finding the most suitable subset of contents for a given user. The final recommendation set includes multiple recommendation types each accompanied with a fallback method to cover-up in case of failure in generating recommendations. The result is an end-to-end pipeline for assorted feed recommendations to users and contents with limited interactions. An emphasis has been paid to experimenting with exploration-exploitation capabilities in the implemented supervised models for result calibration. Lastly, a near-line recommendation layer was introduced to expedite user-specific result generation in under 1.7 seconds.
+
 
 ## Technical Skills
 - **Machine Learning:** Tensorflow, PyTorch, Spotlight, HuggingFace, Scikit-Learn
