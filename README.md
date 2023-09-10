@@ -35,7 +35,7 @@ _University of Delhi, Delhi_
 
 ## Projects
 ### Similar Cases Recommendation Using Legal Knowledge Graphs
-<span style=" color=#000000; font-family='Times New Roman'"> _Dhani JS, Bhatt R, Ganesan B, Sirohi P, Bhatnagar V. Similar cases recommendation using legal knowledge graphs. arXiv preprint arXiv:2107.04771. 2021 Jul 10._</span><br />
+_**Dhani JS**, Bhatt R, Ganesan B, Sirohi P, Bhatnagar V. Similar cases recommendation using legal knowledge graphs. arXiv preprint arXiv:2107.04771. 2021 Jul 10._<br />
 [View KGKDD-2021 Demo Paper](https://arxiv.org/abs/2107.04771)
 
 A legal knowledge graph constructed from court cases, judgments,
@@ -65,6 +65,13 @@ We describe our approach for the 1st Computational Linguistics Lay Summary Share
 - Generated extractive summaries for the subsections using pre-trained BERT variants.
 - Employed clustering algorithms over BERT embeddings to group semantically similar article subsections.
 - Our shared task submission secured rank 2 of 356 in Rouge1-Recall at the CL-Laysumm Shared Task
+
+### Influence of Community on Online User Decisions - an Analysis of the Impact of COVID-19 on Yelp Reviews
+_University of Toronto, CSC2552: Topics in Computation Social Science: AI, Data and Society_ <br />
+[View Project]([https://github.com/jsdhani/community_influence_yelp_reviews])
+
+The COVID-19 pandemic observed a major upsurge in the adoption of virtual service mechanisms by multifarious offline businesses, especially restaurants and other food outlets. As a consequence, customers writing reviews during this period were left to judge restaurants solely based on their online experience. We suspect this to have significantly altered review dynamics with the increased reliance of a user on their community for making decisions online. In this observational study, we implement three distinct methodologies in an attempt to quantify the degree of community influence during the pandemic. We compare our findings with prior works in the field to draw inferences about the significance of a user’s community on online review platforms. Our findings reveal limited evidence of a shift in the influence of the community on user reviews, indicating that users writing reviews on an online experience write them based on their own experiences rather than their community.
+
 
 ## Technical Skills
 - **Machine Learning:** Tensorflow, PyTorch, Spotlight, HuggingFace, Scikit-Learn
