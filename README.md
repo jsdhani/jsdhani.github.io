@@ -67,10 +67,30 @@ We describe our approach for the 1st Computational Linguistics Lay Summary Share
 - Our shared task submission secured rank 2 of 356 in Rouge1-Recall at the CL-Laysumm Shared Task
 
 ### Influence of Community on Online User Decisions - an Analysis of the Impact of COVID-19 on Yelp Reviews
-_University of Toronto, CSC2552: Topics in Computation Social Science: AI, Data and Society_ <br />
+_University of Toronto, Department of Computer Science_ <br />
 [View Project]([https://github.com/jsdhani/community_influence_yelp_reviews])
 
 The COVID-19 pandemic observed a major upsurge in the adoption of virtual service mechanisms by multifarious offline businesses, especially restaurants and other food outlets. As a consequence, customers writing reviews during this period were left to judge restaurants solely based on their online experience. We suspect this to have significantly altered review dynamics with the increased reliance of a user on their community for making decisions online. In this observational study, we implement three distinct methodologies in an attempt to quantify the degree of community influence during the pandemic. We compare our findings with prior works in the field to draw inferences about the significance of a user’s community on online review platforms. Our findings reveal limited evidence of a shift in the influence of the community on user reviews, indicating that users writing reviews on an online experience write them based on their own experiences rather than their community.
+
+
+### An Empirical Study of Supervised and Active Learning Methodologies for Classifying Research Papers
+_University of Toronto, Department of Computer Science_ <br />
+[View Project]([https://github.com/tiru-patel/Active-Learning-based-Research-Paper-Classification])
+
+Document classification is one of the predominant tasks in Machine Learning,
+that by and large involves the use of supervised methodologies to determine most
+suitable categories for a given set of documents. In this project, we seek to conduct
+an empirical study, that, in addition to the conventional machine learning methods,
+experiments with active learning and semi-supervised methods for assorting a
+mix of labelled and unlabelled computer science scholarly articles hosted on the
+arXiV repository. We develop a solution using the gathered labelled data points,
+by experimenting with various multi-class supervised learning models such as K
+Nearest Neighbours, Naive Bayes, Random Forest, and Logistic Regression. We
+also account for the issue of class imbalance, and thus conduct experiments to
+determine a suitable oversampling methodology for addressing this concern. Lastly,
+we extend beyond the conventional machine learning classification methods to
+incorporate the concept of active learning, a type of iterative supervised learning,
+used when the unlabelled data is in abundance.
 
 
 ## Technical Skills
