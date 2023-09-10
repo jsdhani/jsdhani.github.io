@@ -35,7 +35,7 @@ _University of Delhi, Delhi_
 
 ## Projects
 ### Similar Cases Recommendation Using Legal Knowledge Graphs
-[View Workshop Demo Paper](https://arxiv.org/abs/2107.04771)
+[View KGKDD-2021 Demo Paper](https://arxiv.org/abs/2107.04771)
 
 A legal knowledge graph constructed from court cases, judgments,
 laws and other legal documents can enable a number of applications
@@ -52,6 +52,18 @@ knowledge graph.
 - Developed link prediction RGCN model using domain-specific features from 2200+ IPR documents.
 - Achieved 5% improvement in AUC over pre-trained STANZA and spaCy entity recognition models.
 - Our research received recognition at the KGKDD-2021 conference held in Singapore and has recently been accepted into the proceedings at the <a href="https://sites.google.com/view/sail-2023/call-for-papers?authuser=0">3rd Symposium for AI and Law</a>, held at IIIT-Hyderabad.
+
+### Divide and Conquer: From Complexity to Simplicity for Lay Summarization
+Rochana Chaturvedi, Saachi ., **Jaspreet Singh Dhani**, Anurag Joshi, Ankush Khanna, Neha Tomar, Swagata Duari, Alka Khurana, and Vasudha Bhatnagar. 2020. Divide and Conquer: From Complexity to Simplicity for Lay Summarization. In Proceedings of the First Workshop on Scholarly Document Processing, pages 344–355, Online. Association for Computational Linguistics.
+[View ACL Publication]([https://arxiv.org/abs/2107.04771](https://aclanthology.org/2020.sdp-1.40/))
+
+We describe our approach for the 1st Computational Linguistics Lay Summary Shared Task CL-LaySumm20. The task is to produce non-technical summaries of scholarly documents. The summary should be within easy grasp of a layman who may not be well versed with the domain of the research article. We propose a two step divide-and-conquer approach. First, we judiciously select segments of the documents that are not overly pedantic and are likely to be of interest to the laity, and over-extract sentences from each segment using an unsupervised network based method. Next, we perform abstractive summarization on these extractions and systematically merge the abstractions. We run ablation studies to establish that each step in our pipeline is critical for improvement in the quality of lay summary. Our approach leverages state-of-the-art pre-trained deep neural network based models as zero-shot learners to achieve high scores on the task.
+
+#### Contributions
+- Analyzed the corpus for formulating the heuristic to split each scholarly article into subsections.
+- Generated extractive summaries for the subsections using pre-trained BERT variants.
+- Employed clustering algorithms over BERT embeddings to group semantically similar article subsections.
+- Our shared task submission secured rank 2 of 356 in Rouge1-Recall at the CL-Laysumm Shared Task
 
 ## Technical Skills
 - **Machine Learning:** Tensorflow, PyTorch, Spotlight, HuggingFace, Scikit-Learn
