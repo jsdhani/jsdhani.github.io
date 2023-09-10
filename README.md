@@ -97,12 +97,17 @@ used when the unlabelled data is in abundance.
 
 Cold Start is one of the biggest challenges in the realm of Recommender Systems. Be it recommending suitabl items to a new user, or pushing newly uploaded contents to the audience, cold start requires careful utilization of limited attributes to curate the recommendations. The proposed approach uses a combination of unsupervised learning, supervised learning, and rule based approaches to create a feature set and train a multi-label classification model for finding the most suitable subset of contents for a given user. The final recommendation set includes multiple recommendation types each accompanied with a fallback method to cover-up in case of failure in generating recommendations. The result is an end-to-end pipeline for assorted feed recommendations to users and contents with limited interactions. An emphasis has been paid to experimenting with exploration-exploitation capabilities in the implemented supervised models for result calibration. Lastly, a near-line recommendation layer was introduced to expedite user-specific result generation in under 1.7 seconds.
 
-## Techincal and Extra-Curricular Certifications
+## Technical and Extra-Curricular Certifications
 - <a href="https://www.udemy.com/course/recommender-systems/">Recommender Systems and Deep Learning</a> (August 2022)
 - <a href="https://graphacademy.neo4j.com/"> Querying using Cypher- Neo4j GraphAcademy </a> (December 2021)
 - <a href="https://www.edx.org/learn/language/universitat-politecnica-de-valencia-basic-spanish-1-getting-started?webview=false&campaign=Basic+Spanish+1%3A+Getting+Started&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fupvalenciax">Basic Spanish-Universitat Politècnica de València (UPV)</a> (September 2021)
 - Ethical Hacking Certification (Delhi Technological University, 2017)
 - <a href="https://www.coursera.org/learn/website-coding?specialization=website-development"> Responsive Web Development Basics- Goldsmiths, University of London</a> (August 2016)
+
+## Volunteering
+- President, <a href="https://ordinateurhrc.online/home">Ordinateur- The Computer Science Society</a>, Hans Raj College, University of Delhi (July 2017-December 2017)
+- General Member-Health Wing, <a href="https://www.hansrajcollege.ac.in/NSS/home.html">National Service Scheme, Hans Raj Chapter</a>, University of Delhi (August 2016 - April 2017)
+- General Member, <a href="https://www.hansrajcollege.ac.in/studentcorner/socities/societiesdetails/45">Spic Macay, Hans Raj Chapter</a>, University of Delhi (August 2016 - April 2017)
 
 ## Workshops and Competitive Engagements
 - International Workshop on AI for Computational Social Systems (IIIT-Delhi, 2020)
