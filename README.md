@@ -1,7 +1,6 @@
 # Data Scientist
 
 **Reach out to me at:** jsdhani@cs.toronto.edu<br />
-<a href="https://www.linkedin.com/in/jaspreet-singh-dhani/"> LinkedIn Profile </a><br /><br />
 
 Hello there, and thank you for visiting my personal webpage! This space is a reflection of my commitment towards crafting a career in Artifical Intelligence with special focus on Natural Lanaguage Processing and Recommender Systems. It's not just a collection of my past projects and accolades; rather it's a timeline of my growth, my exploration, and my unwavering passion for technology. Whether you're a fellow student like me, a prospective employer, or simply someone intrigued by the endless possibilities of the digital world, you're in the right place. Take your time to peruse my work, and don't hesitate to reach out if you'd like to connect, collaborate, or simply share your thoughts. 
 
