@@ -35,7 +35,7 @@ _University of Delhi, Delhi_
 
 ## Projects
 ### Similar Cases Recommendation Using Legal Knowledge Graphs
-_ **Dhani JS**, Bhatt R, Ganesan B, Sirohi P, Bhatnagar V. Similar cases recommendation using legal knowledge graphs. arXiv preprint arXiv:2107.04771. 2021 Jul 10._<br />
+_**Dhani JS**, Bhatt R, Ganesan B, Sirohi P, Bhatnagar V. Similar cases recommendation using legal knowledge graphs. arXiv preprint arXiv:2107.04771. 2021 Jul 10._<br />
 [View KGKDD-2021 Demo Paper](https://arxiv.org/abs/2107.04771)
 
 A legal knowledge graph constructed from court cases, judgments,
