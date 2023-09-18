@@ -106,7 +106,7 @@ Cold Start is one of the biggest challenges in the realm of Recommender Systems.
 - Ethical Hacking Certification (Delhi Technological University, 2017)
 - <a href="https://www.coursera.org/learn/website-coding?specialization=website-development"> Responsive Web Development Basics- Goldsmiths, University of London</a> (August 2016)
 
-## Volunteering
+## Volunteering and Leadership Experience
 - **President**, <a href="https://ordinateurhrc.online/home">Ordinateur- The Computer Science Society</a>, Hans Raj College, University of Delhi (July 2017-December 2017)
 - **General Member - Health Wing**, <a href="https://www.hansrajcollege.ac.in/NSS/home.html">National Service Scheme, Hans Raj Chapter</a>, University of Delhi (August 2016 - April 2017)
 - **General Member**, <a href="https://www.hansrajcollege.ac.in/studentcorner/socities/societiesdetails/45">Spic Macay, Hans Raj Chapter</a>, University of Delhi (August 2016 - April 2017)
