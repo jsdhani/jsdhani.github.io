@@ -56,7 +56,7 @@ knowledge graph.
 
 ### Divide and Conquer: From Complexity to Simplicity for Lay Summarization
 _Rochana Chaturvedi, Saachi ., **Jaspreet Singh Dhani**, Anurag Joshi, Ankush Khanna, Neha Tomar, Swagata Duari, Alka Khurana, and Vasudha Bhatnagar. 2020. Divide and Conquer: From Complexity to Simplicity for Lay Summarization. In Proceedings of the First Workshop on Scholarly Document Processing, pages 344–355, Online. Association for Computational Linguistics._ <br />
-[View ACL Publication]([https://arxiv.org/abs/2107.04771](https://aclanthology.org/2020.sdp-1.40/))
+[View ACL Publication](https://aclanthology.org/2020.sdp-1.40/)
 
 We describe our approach for the 1st Computational Linguistics Lay Summary Shared Task CL-LaySumm20. The task is to produce non-technical summaries of scholarly documents. The summary should be within easy grasp of a layman who may not be well versed with the domain of the research article. We propose a two step divide-and-conquer approach. First, we judiciously select segments of the documents that are not overly pedantic and are likely to be of interest to the laity, and over-extract sentences from each segment using an unsupervised network based method. Next, we perform abstractive summarization on these extractions and systematically merge the abstractions. We run ablation studies to establish that each step in our pipeline is critical for improvement in the quality of lay summary. Our approach leverages state-of-the-art pre-trained deep neural network based models as zero-shot learners to achieve high scores on the task.
 
@@ -68,14 +68,14 @@ We describe our approach for the 1st Computational Linguistics Lay Summary Share
 
 ### Influence of Community on Online User Decisions - an Analysis of the Impact of COVID-19 on Yelp Reviews
 _University of Toronto, Department of Computer Science_ <br />
-[View Project]([https://github.com/jsdhani/community_influence_yelp_reviews])
+[View Project](https://github.com/jsdhani/community_influence_yelp_reviews)
 
 The COVID-19 pandemic observed a major upsurge in the adoption of virtual service mechanisms by multifarious offline businesses, especially restaurants and other food outlets. As a consequence, customers writing reviews during this period were left to judge restaurants solely based on their online experience. We suspect this to have significantly altered review dynamics with the increased reliance of a user on their community for making decisions online. In this observational study, we implement three distinct methodologies in an attempt to quantify the degree of community influence during the pandemic. We compare our findings with prior works in the field to draw inferences about the significance of a user’s community on online review platforms. Our findings reveal limited evidence of a shift in the influence of the community on user reviews, indicating that users writing reviews on an online experience write them based on their own experiences rather than their community.
 
 
 ### An Empirical Study of Supervised and Active Learning Methodologies for Classifying Research Papers
 _University of Toronto, Department of Computer Science_ <br />
-[View Project]([https://github.com/tiru-patel/Active-Learning-based-Research-Paper-Classification])
+[View Project](https://github.com/tiru-patel/Active-Learning-based-Research-Paper-Classification)
 
 Document classification is one of the predominant tasks in Machine Learning,
 that by and large involves the use of supervised methodologies to determine most
@@ -93,7 +93,7 @@ incorporate the concept of active learning, a type of iterative supervised learn
 used when the unlabelled data is in abundance.
 
 ### Against All Odds: A Machine Learning Perspective to Cold Start Feed Recommendations
-[View Project]([https://github.com/jsdhani/FeedRecommender])
+[View Project](https://github.com/jsdhani/FeedRecommender)
 
 Cold Start is one of the biggest challenges in the realm of Recommender Systems. Be it recommending suitabl items to a new user, or pushing newly uploaded contents to the audience, cold start requires careful utilization of limited attributes to curate the recommendations. The proposed approach uses a combination of unsupervised learning, supervised learning, and rule based approaches to create a feature set and train a multi-label classification model for finding the most suitable subset of contents for a given user. The final recommendation set includes multiple recommendation types each accompanied with a fallback method to cover-up in case of failure in generating recommendations. The result is an end-to-end pipeline for assorted feed recommendations to users and contents with limited interactions. An emphasis has been paid to experimenting with exploration-exploitation capabilities in the implemented supervised models for result calibration. Lastly, a near-line recommendation layer was introduced to expedite user-specific result generation in under 1.7 seconds.
 
