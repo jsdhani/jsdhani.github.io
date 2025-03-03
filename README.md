@@ -1,4 +1,4 @@
-**Reach out to me at:** jsdhani@cs.toronto.edu<br />
+**Reach out to me at:** dhani.jaspreetsingh@gmail.com<br />
 
 Hello there, and thank you for visiting my personal webpage! This space is a reflection of my commitment towards crafting a career in Artifical Intelligence with special focus on Natural Language Processing, and Large Language Models. This page is not just a collection of my past projects and accolades; rather it's a timeline of my growth, my exploration, and my unwavering passion for technology. Whether you're a fellow student like me, a prospective employer, or simply someone intrigued by the endless possibilities of the digital world, you're in the right place. Take your time to peruse my work, and don't hesitate to reach out if you'd like to connect, collaborate, or simply share your thoughts. 
 
@@ -16,7 +16,13 @@ Hello there, and thank you for visiting my personal webpage! This space is a ref
   First rank in academic performance in B.Sc (Hons.), Computer Science, out of 21 colleges under University of Delhi.
 
 ## Experience
-**Research Intern, Data Science @ SOTI Inc. (_May 2023 - Present_)**
+**Software Developer @ LawyerDoneDeal Corp. (LDD) (_March 2024 - present_)**
+_Toronto, Ontario_
+- Fine-tuned GPT-4o for generating responses to requisition letters upploaded on Realtiweb.
+- Migrated legacy .asp code for RealtiWeb to React, Typescript stack.
+- Developed Cheque Printing interface and Cheque Configuration profiles for individual trusts under each client's firm.
+- Expedited document processing capabilities of RenAI Mortgage Document analyzer by adopting a 'Separation of Concerns' principle for backend development.
+**Research Intern, Data Science @ SOTI Inc. (_May 2023 - December 2023_)**
 _Mississauga, Ontario_
 - Enhancing the internal CI/CD BDD (Behavior Driven Development) test case selection algorithm using semantic features from Gherkin Scenarios and corresponding C# syntax structure for priority-driven test recommendations.
 
@@ -98,6 +104,7 @@ used when the unlabelled data is in abundance.
 Cold Start is one of the biggest challenges in the realm of Recommender Systems. Be it recommending suitabl items to a new user, or pushing newly uploaded contents to the audience, cold start requires careful utilization of limited attributes to curate the recommendations. The proposed approach uses a combination of unsupervised learning, supervised learning, and rule based approaches to create a feature set and train a multi-label classification model for finding the most suitable subset of contents for a given user. The final recommendation set includes multiple recommendation types each accompanied with a fallback method to cover-up in case of failure in generating recommendations. The result is an end-to-end pipeline for assorted feed recommendations to users and contents with limited interactions. An emphasis has been paid to experimenting with exploration-exploitation capabilities in the implemented supervised models for result calibration. Lastly, a near-line recommendation layer was introduced to expedite user-specific result generation in under 1.7 seconds.
 
 ## Technical and Extra-Curricular Certifications
+- <a href="https://coursera.org/share/79c09fd8acbe79dc2b0236c967233855">DeepLearning.AI Tensforflow Developer Specialization</a> (March 2025)
 - <a href="https://www.udemy.com/course/recommender-systems/">Recommender Systems and Deep Learning</a> (August 2022)
 - <a href="https://graphacademy.neo4j.com/"> Querying using Cypher- Neo4j GraphAcademy </a> (December 2021)
 - <a href="https://www.edx.org/learn/language/universitat-politecnica-de-valencia-basic-spanish-1-getting-started?webview=false&campaign=Basic+Spanish+1%3A+Getting+Started&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fupvalenciax">Basic Spanish-Universitat Politècnica de València (UPV)</a> (September 2021)
