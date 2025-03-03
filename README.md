@@ -1,4 +1,4 @@
-**Reach out to me at:** dhani.jaspreetsingh@gmail.com<br />
+**Reach out to me at:** dhani.jaspreetsingh@gmail.com <br />
 
 Hello there, and thank you for visiting my personal webpage! This space is a reflection of my commitment towards crafting a career in Artifical Intelligence with special focus on Natural Language Processing, and Large Language Models. This page is not just a collection of my past projects and accolades; rather it's a timeline of my growth, my exploration, and my unwavering passion for technology. Whether you're a fellow student like me, a prospective employer, or simply someone intrigued by the endless possibilities of the digital world, you're in the right place. Take your time to peruse my work, and don't hesitate to reach out if you'd like to connect, collaborate, or simply share your thoughts. 
 
@@ -16,15 +16,17 @@ Hello there, and thank you for visiting my personal webpage! This space is a ref
   First rank in academic performance in B.Sc (Hons.), Computer Science, out of 21 colleges under University of Delhi.
 
 ## Experience
-**Software Developer @ LawyerDoneDeal Corp. (LDD) (_March 2024 - present_)**
-_Toronto, Ontario_
-- Fine-tuned GPT-4o for generating responses to requisition letters upploaded on Realtiweb.
-- Migrated legacy .asp code for RealtiWeb to React, Typescript stack.
+**Software Developer @ LawyerDoneDeal (LDD) (_March 2024 - present_)** <br />
+_Toronto, Ontario_ <br />
+- Fine-tuned GPT-4o for generating responses to requisition letters uploaded to LDD Realtiweb.
+- Migrated legacy .asp code in RealtiWeb to React, Typescript stack.
 - Developed Cheque Printing interface and Cheque Configuration profiles for individual trusts under each client's firm.
 - Expedited document processing capabilities of RenAI Mortgage Document analyzer by adopting a 'Separation of Concerns' principle for backend development.
-**Research Intern, Data Science @ SOTI Inc. (_May 2023 - December 2023_)**
-_Mississauga, Ontario_
-- Enhancing the internal CI/CD BDD (Behavior Driven Development) test case selection algorithm using semantic features from Gherkin Scenarios and corresponding C# syntax structure for priority-driven test recommendations.
+  <br />
+  
+**Research Intern, Data Science @ SOTI Inc. (_May 2023 - December 2023_)** <br />
+_Mississauga, Ontario_ <br />
+- Enhanced the internal CI/CD BDD (Behavior Driven Development) test case selection algorithm using semantic features from Gherkin Scenarios and corresponding C# syntax structure for priority-driven test recommendations.
 
 
 **AI/ML Engineer @ Scimox Pvt. Ltd. (_June 2021 - June 2022_)** <br />
